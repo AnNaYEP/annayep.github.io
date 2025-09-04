@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg
+image: img/Typescript.svg
 title: "Reflect on Typescript"
 date: 2025
 published: true

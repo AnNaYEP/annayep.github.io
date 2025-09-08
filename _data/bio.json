@@ -11,7 +11,7 @@
     "profiles": [
       { "network": "github", "username": "AnNaYEP", "url": "http://github.com/AnNaYEP" },
       { "network": "linkedin", "username": "Andrew Narciso", "url": "https://www.linkedin.com/in/andrew-narciso-860270242/" },
-      { "network": "Email", "username": "narcisoandrewp@gmail.com", "url": "narcisoandrewp@gmail.com" },
+      { "network": "Email", "username": "narcisoandrewp@gmail.com", "url": "narcisoandrewp@gmail.com" }
     ]
   },
   "interests": [
@@ -44,7 +44,7 @@
   ],
   "work": [
     {
-      "company": "UH West Oahu IT Help Desk",
+      "organization": "UH West Oahu IT Help Desk",
       "position": "Team Lead - Tier 2",
       "website": "",
       "startDate": "2024-08-01",
@@ -58,7 +58,7 @@
         "installing new computers and other peripheral devices ie scanners, printers"
       ]
     },
-  ]
+  ],
   "awards": [
     {
       "title": "Judges Award",

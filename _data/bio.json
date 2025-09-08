@@ -6,11 +6,12 @@
     "email": "narcisoa@hawaii.edu",
     "phone": "808-498-6326",
     "website": "https://annayep.github.io",
-    "summary": "I am studying for a B.A. in Information and Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2027.",
+    "summary": "I am studying for a B.A. in Information and Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2027, with a focus in Software Engineering.",
     "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "AnNaYEP", "url": "http://github.com/AnNaYEP" },
       { "network": "linkedin", "username": "Andrew Narciso", "url": "https://www.linkedin.com/in/andrew-narciso-860270242/" },
+      { "network": "Email", "username": "narcisoandrewp@gmail.com", "url": "narcisoandrewp@gmail.com" },
     ]
   },
   "interests": [
@@ -33,9 +34,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2027)",
+      "studyType": "B.A.",
+      "startDate": "2025-01-13",
       "endDate": "Present",
       "courses": [
       ]
@@ -43,70 +44,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH West Oahu IT Help Desk",
+      "position": "Team Lead - Tier 2",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Installing and maintaining a variety of computers, mobile devices, and software in an enterprise environment, along with audio visual troubleshooting, while facilitating communication with customers to assist with their technology needs.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "efficiently installing operating systems",
+        "using a enterprise trouble ticketing system",
+        "customer service",
+        "troubleshooting computer and mobile device issues",
+        "installing new computers and other peripheral devices ie scanners, printers"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Judges Award",
+      "date": "2022",
+      "awarder": "SkillsUSA",
+      "summary": "Team deserving recognition from Judges for special accomplishments"
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {

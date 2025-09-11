@@ -27,9 +27,9 @@ The image shown is an example of a good question. His subject header contains th
 
 # How To Not Phrase a Smart Question
 
-Yadda Yadda no infodump
-[Image of thingy] (https://stackoverflow.com/questions/75272888/adding-an-ssh-key-to-github-from-git)
-This guy question wrong he no try solution small brain boo this guy
+
+[Image] (https://stackoverflow.com/questions/75272888/adding-an-ssh-key-to-github-from-git)
+This guy's question does not help his case
 
 Intro to personal opinion on smart questions (maybe commentary on Eric Raymond)
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/workbench/finalDraftSquare.png
 title: "Workbench Build"
 date: 2025
 published: true

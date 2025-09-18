@@ -3,7 +3,8 @@ layout: essay
 type: essay
 image: img/Typescript.svg
 title: "Smart Questions? Why?"
-date: 2025-17-09
+#[![Alt text](image-url)](target-url)
+date: 2025-09-17
 published: true
 labels:
   - Typescript

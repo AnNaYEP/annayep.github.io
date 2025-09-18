@@ -26,6 +26,5 @@ I originally felt confident going into the project, as I felt my past experience
 
 # Process
 It started with collecting the materials. It took a couple back and forth trips to the hardware stores around me to get both wood and hardware. It started with a glue-up of two wood panels, then a glue-up for the feet. The metal vise was attached with nuts, bolts, and terribly-cut mortises. The dog holes were drilled with a 3/4" drill bit (I ended up breaking a cheap drill extender when drilling for the side holes).
-[![Cutting a log](/img/workbench/inAction.png)]
 
 Source: <a href="https://www.3x3custom.com/store/portable-work-bench-plans"><i class="large github icon "></i>Workbench Plans Used</a>

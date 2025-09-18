@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/DATACation/logo.png
-title: "Workbench Build"
+title: "Hack the Northeast: Beyond Website"
 date: 2021
 published: true
 labels:

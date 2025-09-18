@@ -27,6 +27,5 @@ The image shown is an example of a good question. His subject header contains th
 
 # How To Not Phrase a Smart Question
 
-[![Alt text](image-url)](target-url)
 [![Bad Question](/img/smart-questions/bad.png)](https://stackoverflow.com/questions/75272888/adding-an-ssh-key-to-github-from-git)
 This guy's question does not help his case of receiving help. He has mentioned not trying any solutions. One option he could have tried was first trying the solutions. Him stating that he has not tried them yet gives less incentive for other people to help since their help might not even be considered. One of the replies also easily found a possible solution, indicating that the solution was easily found and that the asker put no effort into solving their own solution.

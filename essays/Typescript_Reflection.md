@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: essay
+type: essay
 image: img/Typescript.svg
 title: "Reflect on Typescript"
 date: 2025

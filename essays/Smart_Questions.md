@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: essay
+type: essay
 image: img/Typescript.svg
 title: "Smart Questions? Why?"
 date: 2025

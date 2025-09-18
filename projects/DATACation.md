@@ -20,5 +20,22 @@ Me and my good friend Joss first found out about this hackathon from our coding 
 # Creating the Site
 Being highschool students, we only knew what was taught in our classes. With the limited time we had, we decided to go with what we knew best, instead of picking up a database management system or framework. This meant that the site is made with only HTML, CSS, and Javascript. I personally worked mainly on the backend with Javascript. Coming up with the idea, we wanted to make a directory of sites that would aid students in highschool. It was a little challening working with people in a different time zone, but we were able to make it work in the end with teamwork and planning. 
 
+```js
+//declares location of the website to go to
+var page = "text";
+
+//This function directs the user to their desired resource website
+ function nextPage() {
+    //  grabs values from index6
+    // sub = subject
+    //level = grade level
+    var grade = document.getElementById("level").value;
+    var subject = document.getElementById("sub").value;
+    ...
+}
+```
+
 Source: <a href="https://annayep.github.io/HTNE2021/"><i class="large github icon"></i>Web Page</a>
 GitHub: <a href="https://github.com/AnNaYEP/HTNE2021"><i class="large github icon"></i>GitHub</a>
+
+

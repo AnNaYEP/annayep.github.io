@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 image: img/Typescript.svg
-title: "Coding Standards" 
+title: "Coding Standards"
 date: 2025-09-24
 published: true
 labels:
@@ -10,11 +10,11 @@ labels:
 summary: "Reflecting on Coding standards so far."
 ---
 
-# Personal Opinions
-I personally think Typescript is neat, bringing the ability of object oriented programming to a higher level language. It felt familiar because of what I learned back in 211 with Java programming. Although I have used typescript in the past for an Internship, I never fully explored its capabilities. This is because I was mostly learning Typescript APIs to write jest tests. While interfaces and inheritance were used, I only had to understand it and not utilize it when writing programs. 
+# Personal Reflection
+I personally agree that coding standards help one learn a language. This is because it establishes rules that help with collaboration and with recieving assistance when it comes to code reviews. I think back on my internship experience where I worked with APIs. It was important to follow standards so that code could be peer-reviewed by my mentors. 
 
-# Software Engineering Perspective
-From a Software Engineering perspective, I think it is a great language. It builds off of a langauge many are required to learn when taking an intro class to programming, which usually revolves around webpages and making them interactive (Javascript). I also like how it addresses some downsides of Javascript, with type errors being a big focus. From personal experience too, I think Typescript is sort of what Arduino is to embedded electronics as Typescript is to software development While it may not be the most optimized for the job, it gets the job done and done quick. 
+# ESLint and VSCode impressions
+At first, ESLint was difficult, as I ran into many errors. I still do, but it took me a bit to troubleshoot what was wrong. One error I encountered was VSCode renaming my saved files during my assignments. It would delete the "." before files, which was needed for ESLint to recognize the configuration files in my assignments. VSCode on the other hand was easy to get a hang of, as it was and still is what is normally used since I started programming back in High School.
 
-# On Athletic Software Engineering
-I find value in the practice WODs, as it feels like a pop quiz on what we are learning at the moment. It is a little new to me, but the time ranges also help give a gauge of how much time I may need to spend on the current topic we are learning. The only downside to me personally is that it does get stressful, but I feel with more practice, it will go on to be more enjoyable. While I do think AI usage being allowed is cool, a part of me wonders if there is any value to me personnally to use it. This is because it feels like I am passing the work onto someone else, but I also see the value in using it in a learning environment, so I am overall neutral to it.
+# Final Opinion
+I personally dislike all the dependancies needed to get a programming to work. A bit example is node.js, as all the packages are still confusing for me to navigate whenever I run into errors. I do think that adds to the beauty of programming, however. This is because we are free to implement and fix isssues in any way we can. The flexability of software development is what keeps me pursuing it as my career. I originally wanted to do IT related work like cybersecurity, but all the proprietary software/hardware, along with the cost of equipment for a home lab pushed me away from that career, and thrusted me into Software Engineering. It isn't restricted to a company's hardware or software, and there is huge advocacy for Open Source Software, where anyone can contribute. I find it more social and friendly, and if not for that, I would be pursuing a different career that has a hard focus on flexible problem solving.

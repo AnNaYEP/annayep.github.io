@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: ..\img\effortestimation\effortestimation.png
+image: ../img/effortestimation/effortestimation.png
 title: "Reflection on Effort Estimations"
 date: 2025-12-14
 published: true

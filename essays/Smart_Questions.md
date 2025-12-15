@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: img/Typescript.svg
+image: ../img/smart-questions/Typescript.svg
 title: "Smart Questions? Why?"
 #[![Alt text](image-url)](target-url)
 date: 2025-09-10

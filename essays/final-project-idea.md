@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: img/Typescript.svg
+image: ../img/Typescript.svg
 title: "Final Project Idea"
 date: 2025-11-03
 published: true

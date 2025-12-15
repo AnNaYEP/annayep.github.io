@@ -13,6 +13,7 @@ labels:
 summary: "Reflecting on Effort Estimations."
 ---
 
+[![Effort](../img/effortestimation/effortestimation.png)](https://stackoverflow.com/questions/2643502/how-to-solve-permission-denied-publickey-error-when-using-git/2643584#2643584)
 # On Effort Estimations
 I mainly made my estimates based on the amount of days I focused on. I would either work 4 or 8 hour sessions, and looking at my commit history along with time I worked on the project during meetings.
 Personally, while my estimations may be off, estimating in advance helped with alloting time to work on issues, even though I would always go over it due to trying to fix related issues with my computers, node packages, local development, or all three at once. 

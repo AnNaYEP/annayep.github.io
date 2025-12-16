@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: img/Typescript.svg
+image: ../img/Typescript.svg
 title: "Coding Standards"
 date: 2025-09-24
 published: true

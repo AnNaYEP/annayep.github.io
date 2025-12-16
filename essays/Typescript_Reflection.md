@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: img/Typescript.svg
+image: ../img/Typescript.svg
 title: "Reflect on Typescript"
 date: 2025-09-03
 published: true

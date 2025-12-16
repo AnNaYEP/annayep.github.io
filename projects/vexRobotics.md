@@ -21,7 +21,7 @@ This robot was made for the vex 2022 competition, under Waipahu Highschool's rob
 Following the engineering design process, we quickly prototyped and designed a drivebase and claw for lifting objectives and scoring points. Near the end of the semester, my two teamates got busy with schoolwork, so development struggled. We learned about gears, motors, pneumatics, and machining. We were able to pull through however, and won Judges award at the last qualification tournament for states. While we didn't advance to the states competition, I was satisfied with the progress I was able to make on my first and last year as a builder, designer, driver, programmer, and team captain for my team. 
 
 Front View
-[![Robot at rest](/img/vex/vex2.png)]
+[![Robot at rest](../img/vex/vex2.png)]
 
 Back View
-[![Robot at rest](/img/vex/back.png)]
+[![Robot at rest](../img/vex/back.jpg)]

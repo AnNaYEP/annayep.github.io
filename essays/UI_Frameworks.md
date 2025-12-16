@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: img\UI_Frameworks\logo.svg
+image: ../img/UI_Frameworks/logo.svg
 title: "Reflection on UI Frameworks"
 date: 2025-10-8
 published: true

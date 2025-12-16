@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 image: ../img/effortestimation/effortestimation.png
-title: "Reflection on Effort Estimations"
+title: "314 Effort Estimations"
 date: 2025-12-14
 published: true
 labels:
@@ -10,7 +10,7 @@ labels:
   - VSCode
   - Time Management
   - GitHub
-summary: "Reflecting on Effort Estimations."
+summary: "Reflecting on Effort Estimations for ICS 314."
 ---
 
 [![Effort](../img/effortestimation/effortestimation.png)](https://stackoverflow.com/questions/2643502/how-to-solve-permission-denied-publickey-error-when-using-git/2643584#2643584)

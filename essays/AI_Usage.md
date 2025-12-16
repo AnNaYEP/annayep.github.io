@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 image: ..\img\AI_Usage\AVATAR_SQUARE_2D_DARK.png
-title: "Smart Questions? Why?"
+title: "AI Prevalance, and Looking Back"
 #[![Alt text](image-url)](target-url)
 date: 2025-10-16
 published: true
@@ -12,10 +12,10 @@ labels:
   - Microsoft Copilot
   - AI
   - LLM
-summary: "Reflecting on Typescript."
+summary: "Reflecting on the prevalance of AI in Software Engineering and beyond"
 ---
 
-![CursorLockup ](..\img\AI_Usage\LOCKUP_HORIZONTAL_2D_LIGHT.svg)
+![CursorLockup](..\img\AI_Usage\LOCKUP_HORIZONTAL_2D_LIGHT.svg)
 
 # AI Introducton
 The role of AI usage in education pertaining to Software Engineering is an interesting one. I could not imagine being able to just press `Tab` and have comments or blocks of template code just written out for me. Because Software Engineering is such a broad field with close ties in Machine Learning development, it was definitely a different landscape than it was just 3 years ago. Growing up programming without AI, I feel it isn’t a crutch to me as it could have been if it were introduced to me earlier. AI is just another option for assistance, like a consultant. It _has_ knowledge, but it is up to the person using it to either go with or against its suggestions.

@@ -11,7 +11,7 @@ labels:
 summary: "Final project for ICS 314 Fall 2025"
 ---
 
-<img class="img-fluid" src="../img/aboutme.png">
+<img class="img-fluid" src="../img/about.png">
 
 # Introduction
 The goal of this project is to enable students at UH Manoa the ability to sell to other students. It was built using Github, Vercel, next.js, Bootstrap, node.js, and PostgresSQL. It uses Vercel and Prisma to store user account information and all the items being sold/have been sold.

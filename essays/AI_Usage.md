@@ -4,7 +4,7 @@ type: essay
 image: ..\img\AI_Usage\AVATAR_SQUARE_2D_DARK.png
 title: "AI Prevalance, and Looking Back"
 #[![Alt text](image-url)](target-url)
-date: 2025-10-16
+date: 2025-12-16
 published: true
 labels:
   - Cursor

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/workbench/finalDraftSquare.png
+image: ../img/webpage.png
 title: "Final Project: wonkes"
 date: 2025
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "Final project for ICS 314 Fall 2025"
 ---
 
-<img class="img-fluid" src="../img/workbench/glueUp.png">
+<img class="img-fluid" src="../img/aboutme.png">
 
 # Introduction
 The goal of this project is to enable students at UH Manoa the ability to sell to other students. It was built using Github, Vercel, next.js, Bootstrap, node.js, and PostgresSQL. It uses Vercel and Prisma to store user account information and all the items being sold/have been sold.
@@ -24,4 +24,6 @@ I also worked on playwright testing and adding it to Github’s Actions workflow
 What I learned the most on this project was collaboration between other students. It was hard to find times to meet because of the varied schedules of everyone on the team. Some worked, some had class, and we all did our best to work around it. Another thing I learned was the scaling complexity as the project progressed. Project scope was something I only heard of in passing, so having to cut features at the end made me think about managing and prioritizing projects in the future. Communication was also huge. I knew that it was good to reach out if I ever ran into issues, but after working on this project, it made me more comfortable with doing so, as it was always easier for me to spend more time on an issue instead of getting help from my peers.
 
 
-Source: <a href="https://www.3x3custom.com/store/portable-work-bench-plans"><i class="large github icon "></i>Workbench Plans Used</a>
+Source: <a href="https://wonkes.vercel.app/"><i class="large github icon "></i>Webpage</a>
+<a href="https://github.com/wonkes-manoa"><i class="large github icon "></i>GitHub Page</a>
+<a href="https://wonkes-manoa.github.io/"><i class="large github icon "></i>Project Overview</a>
